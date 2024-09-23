@@ -5,7 +5,7 @@ keywords:
 author: ShiChao Zhai
 language: en
 timezone: ''
-url: https://github.com/zhaishichao.github.io #改成自己的博客项目地址就行
+url: https://github.com/zhaishichao/zhaishichao.github.io #改成自己的博客项目地址就行
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
