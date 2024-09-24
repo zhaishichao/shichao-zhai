@@ -3,11 +3,23 @@ subtitle: ''
 description: ''
 keywords:
 author: 翟士超
-language: zh-CN
-timezone: ''
-url: https://zhaishichao.github.io #改成自己的博客项目地址就行
+
+# 国际化
+language:
+  - zh-CN
+  - en
+i18n_dir: ':lang'
+
+
+# 文章的永久链接
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
+
+# 新文章的目录？？？
+new_post_name: ':title.md'
+timezone: ''
+url: https://zhaishichao.github.io #改成自己的博客项目地址就行
+
 
 
 pretty_urls:
@@ -19,11 +31,10 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: ':lang'
 
 
 skip_render: null
-new_post_name: ':title.md'
+
 default_layout: post
 titlecase: false
 external_link:

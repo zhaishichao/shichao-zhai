@@ -1,7 +1,7 @@
 # Header
 menu:                      # Links in the navigation bar
   首页: /
-  个人简介: /myself
+  个人简历: /myself
   归档: /archives
   关于: /about
 rss: /atom.xml
@@ -78,3 +78,9 @@ comment:
 gauges_analytics: false
 google_analytics: false #UA-xxxxxx
 baidu_analytics: false # ddxxxxxxxxxxxxxxxxx In the https://hm.baidu.com/hm.js? Afterwards
+
+
+# 语言的切换开关
+language_switcher: true
+cache:
+  enable: false
