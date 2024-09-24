@@ -1,13 +1,15 @@
-title: ShiChao Zhai
+title: 翟士超-个人博客
 subtitle: ''
 description: ''
 keywords:
-author: ShiChao Zhai
-language: en
+author: 翟士超
+language: zh-CN
 timezone: ''
 url: https://zhaishichao.github.io #改成自己的博客项目地址就行
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
+
+
 pretty_urls:
   trailing_index: true
   trailing_html: true
@@ -18,6 +20,8 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: ':lang'
+
+
 skip_render: null
 new_post_name: ':title.md'
 default_layout: post
@@ -28,7 +32,15 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+
+#文章资源文件夹开关
+post_asset_folder: true
+
+#hexo-renderer-marked插件，解决图片路径问题，打包后可在网页中显示
+marked:
+  prependRoot: true
+  postAsset: true
+
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -64,5 +76,11 @@ theme: vivia
 deploy:
   type: ''
 
-
+# 文章预览的最大长度
 excerpt_length: 100
+
+#npm install hexo-toc --save
+#显示目录
+# md文件中加入 <!-- toc -->
+#toc:
+  #maxdepth: 3
