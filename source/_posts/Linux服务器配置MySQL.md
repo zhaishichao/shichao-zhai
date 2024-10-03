@@ -3,7 +3,6 @@ title: Linux服务器配置MySQL
 date: 2024-09-24 19:12:22
 tags: 
   - MySQL
-  - Linux
 categories: 
   - [数据库,MySQL]
 ---
