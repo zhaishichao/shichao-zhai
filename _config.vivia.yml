@@ -27,15 +27,15 @@ avatar: images/myself.jpg                            # Path to the avatar image 
 author: 翟士超
 subtitle: 个人主页
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # Find icon codes at https://fontawesome.com/search
-    url: https://twitter.com
-  - name: Steam
-    icon: fa-brands fa-steam
-    url: https://store.steampowered.com
+  - name: Wechatr
+    icon: fa-brands fa-wechat      # Find icon codes at https://fontawesome.com/search
+    url: https://zhaishichao.github.io/about/
+  - name: QQ
+    icon: fa-brands fa-qq
+    url: https://zhaishichao.github.io/about/
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com
+    url: https://github.com/zhaishichao
 
 # Sidebar
 sidebar:
