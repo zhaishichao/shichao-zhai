@@ -28,7 +28,7 @@ author: 翟士超
 subtitle: 个人主页
 links:
   - name: Wechatr
-    icon: fa-brands fa-wechat      # Find icon codes at https://fontawesome.com/search
+    icon: fa-brands fa-weixin      # Find icon codes at https://fontawesome.com/search
     url: https://zhaishichao.github.io/about/
   - name: QQ
     icon: fa-brands fa-qq
