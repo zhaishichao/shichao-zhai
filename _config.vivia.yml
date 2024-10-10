@@ -1,10 +1,10 @@
 # Header
 menu:                      # Links in the navigation bar
   Home: /
-  Categories: /Categories
+  Categories: /categories
   Archives: /archives
   Tags: /tags
-  Resume: /about
+  Resume: /resume
 rss: /atom.xml
 
 home:

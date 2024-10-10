@@ -4,8 +4,8 @@ date: 2024-09-24 19:12:22
 tags: 
   - MySQL
 categories: 
-  - 软件开发
-  - 数据库
+  - Software Dev
+  - Database
   - MySQL
 ---
 
