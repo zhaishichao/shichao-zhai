@@ -23,7 +23,7 @@ hue: 250                         # The hue of the theme color (e.g. red: 0, oran
 
 # Personal info
 avatar: images/myself.jpg                            # Path to the avatar image relative to /source
-author: zhaishichao(翟士超)
+author: zhaishichao
 subtitle: Personal blog
 links:
   - name: Weixin
