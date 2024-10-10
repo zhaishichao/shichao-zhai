@@ -1,9 +1,10 @@
 # Header
 menu:                      # Links in the navigation bar
-  首页: /
-  个人简历: /myself
-  归档: /archives
-  关于: /about
+  Home: /
+  Categories: /Categories
+  Archives: /archives
+  Tags: /tags
+  Resume: /about
 rss: /atom.xml
 
 home:
