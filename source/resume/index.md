@@ -4,7 +4,7 @@ date: 2024-09-23 15:16:04
 ---
 ## About Me
 >**ShiChao Zhai (翟士超)**  
->**Affiliation**: [School of Future Science and Engineering](https://future.suda.edu.cn/), [Soochow University](https://www.bjut.edu.cn/)  
+>**Affiliation**: [School of Future Science and Engineering](https://future.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/)  
 >**Address**: SuZhou, JiangSu, China  
 >**Email**: sc_zhai@163.com    
 >**QQ**: 2827636950
