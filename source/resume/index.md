@@ -7,7 +7,7 @@ date: 2024-09-23 15:16:04
 >**Affiliation**: [School of Future Science and Engineering](https://future.suda.edu.cn/), [Soochow University](https://www.bjut.edu.cn/)  
 >**Address**: SuZhou, JiangSu, China  
 >**Email**: sc_zhai@163.com    
->**QQ**:2827636950
+>**QQ**: 2827636950
 
 ## Education
 
