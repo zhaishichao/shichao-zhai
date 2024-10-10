@@ -25,10 +25,10 @@ hue: 250                         # The hue of the theme color (e.g. red: 0, oran
 
 # Personal info
 avatar: images/myself.jpg                            # Path to the avatar image relative to /source
-author: 翟士超
-subtitle: 个人主页
+author: zhaishichao(翟士超)
+subtitle: Personal blog
 links:
-  - name: Wechart
+  - name: Weixin
     icon: fa-brands fa-weixin      # Find icon codes at https://fontawesome.com/search
     url: https://zhaishichao.github.io/about/
   - name: QQ

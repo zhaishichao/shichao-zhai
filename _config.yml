@@ -1,12 +1,15 @@
-title: 翟士超-个人博客
+# 页面参数
+title: Blog
 subtitle: ''
 description: ''
 keywords:
-author: 翟士超
+author: zhaishichao(翟士超)
 
 # 国际化
 language:
-  - zh-CN
+  # 中文
+  #- zh-CN
+  # 英文
   - en
 i18n_dir: ':lang'
 
@@ -15,7 +18,7 @@ i18n_dir: ':lang'
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 
-# 新文章的目录？？？
+# 新文章的目录（？？？还不太确定）
 new_post_name: ':title.md'
 timezone: ''
 url: https://zhaishichao.github.io #改成自己的博客项目地址就行
@@ -47,7 +50,7 @@ render_drafts: false
 #文章资源文件夹开关
 post_asset_folder: true
 
-#hexo-renderer-marked插件，解决图片路径问题，打包后可在网页中显示
+#hexo-renderer-marked插件，解决图片路径问题，打包后可在网页中显示（主要是更改图片路径）
 marked:
   prependRoot: true
   postAsset: true
