@@ -27,7 +27,7 @@ avatar: images/myself.jpg                            # Path to the avatar image 
 author: 翟士超
 subtitle: 个人主页
 links:
-  - name: Wechatr
+  - name: Wechart
     icon: fa-brands fa-weixin      # Find icon codes at https://fontawesome.com/search
     url: https://zhaishichao.github.io/about/
   - name: QQ
