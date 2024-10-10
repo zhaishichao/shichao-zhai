@@ -1,9 +1,7 @@
 # Header
 menu:                      # Links in the navigation bar
   Home: /
-  Categories: /categories
   Archives: /archives
-  Tags: /tags
   Resume: /resume
 rss: /atom.xml
 

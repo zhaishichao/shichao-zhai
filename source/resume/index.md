@@ -6,7 +6,8 @@ date: 2024-09-23 15:16:04
 >**ShiChao Zhai (翟士超)**  
 >**Affiliation**: [School of Future Science and Engineering](https://future.suda.edu.cn/), [Soochow University](https://www.bjut.edu.cn/)  
 >**Address**: SuZhou, JiangSu, China  
->**Email**: sc_zhai@163.com
+>**Email**: sc_zhai@163.com    
+>**QQ**:2827636950
 
 ## Education
 
@@ -40,13 +41,13 @@ date: 2024-09-23 15:16:04
 
 ## Research interests
 
->**Evolutionary computation**\
+>**Evolutionary computation**  
 >**Instance selection**
 
 ## Internship experience
 
->**iFLYTEK(科大讯飞), Research Institute of Zhengzhou, Henan**\
->**Time**:Apr.2024-Aug.2024\
->**Project**: Development of social service platform\
->**Introduce**: The socialized service platform is a comprehensive management platform for agricultural informatization, which provides modules such as land circulation, land trusteeship, map services, agricultural machinery services, and agricultural material services.\
->**Main work**: Completed the development and maintenance of the platform's collection function and customer service messages
+>**iFLYTEK(科大讯飞), Research Institute of Zhengzhou, Henan**    
+>**Time**:Apr.2024-Aug.2024  
+>**Project**: Development of social service platform  
+>**Introduce**: The socialized service platform is a comprehensive management platform for agricultural informatization, which provides modules such as land circulation, land trusteeship, map services, agricultural machinery services, and agricultural material services.  
+>**Main work**: Completed the development and maintenance of the platform's collection function and customer service messages  
