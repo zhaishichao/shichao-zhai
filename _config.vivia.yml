@@ -21,7 +21,7 @@ banner:
 hue: 250                         # The hue of the theme color (e.g. red: 0, orange: 60, blue: 260, purple: 300, pink: 345)
                                  # Visit `saicaca.github.io/vivia-preview` to preview the theme color
 # Personal info
-avatar: images/avatar.jpg                            # Path to the avatar image relative to /source
+avatar: images/avatar_girl.jpg                            # Path to the avatar image relative to /source
 author: zhaishichao
 subtitle: Personal blog
 links:
